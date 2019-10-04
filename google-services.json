@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "708909321201",
+    "firebase_url": "https://bodaboda-91c74.firebaseio.com",
+    "project_id": "bodaboda-91c74",
+    "storage_bucket": "bodaboda-91c74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708909321201:android:8cd93163714d4176",
+        "android_client_info": {
+          "package_name": "com.spencer.bodaboda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708909321201-fna5aujobu37q3kr0ui0iobb9m06vhep.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spencer.bodaboda",
+            "certificate_hash": "e4d2d85979a2a77f4abc2f8d1057b2dabccd661c"
+          }
+        },
+        {
+          "client_id": "708909321201-vl39kp6c7qn29q95l6auj8dknncnv5q4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvhvFcukY7SDvcJaC1GC7B7g_pY_RAAz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708909321201-vl39kp6c7qn29q95l6auj8dknncnv5q4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
